@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+.pytest_cache/
+.streamlit/
+*.joblib
+.env
+.venv
+venv/
+*.egg-info/
+dist/
+build/
